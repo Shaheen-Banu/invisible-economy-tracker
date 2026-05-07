@@ -1,0 +1,30 @@
+timestamp,age,gender,living_type,monthly_allowance,expense_tracking,tracking_percentage,cash_usage,weekly_snack_spending,monthly_transport_spending,bill_splitting,forget_recording,cash_score,split_score,forget_score,tracking_score,hidden_spending_score,spending_personality
+5/3/2026 22:51:18,20,Female,Hostel,3000,Sometimes,2,Frequently,100,250.0,Yes,Often,3,1,3,2,2.4,Cash Hoarder
+5/3/2026 22:55:34,21,Male,Dayscholar,1000,Never,1,Sometimes,1000,600.0,No,Often,2,0,3,1,2.05,Social Splitter
+5/3/2026 23:02:23,21,Female,Dayscholar,3000,Sometimes,6,Sometimes,100,1000.0,Yes,Sometimes,2,1,2,2,1.7999999999999998,Silent Spender
+5/3/2026 23:03:11,22,Male,Dayscholar,5000,Sometimes,6,Sometimes,200,500.0,Yes,Sometimes,2,1,2,2,1.7999999999999998,Silent Spender
+5/3/2026 23:05:46,21,Female,Hostel,4000,Never,6,Frequently,200,300.0,No,Often,3,0,3,1,2.4,Cash Hoarder
+5/3/2026 23:06:52,24,Male,Dayscholar,5000,Never,2,Sometimes,300,300.0,Yes,Sometimes,2,1,2,1,2.0,Social Splitter
+5/3/2026 23:07:35,21,Male,Dayscholar,5000,Never,10,Rarely,1000,2500.0,Yes,Sometimes,1,1,2,1,1.6500000000000001,Silent Spender
+5/3/2026 23:12:25,26,Female,Dayscholar,1000,Sometimes,5,Sometimes,200,1000.0,No,Sometimes,2,0,2,2,1.6,Silent Spender
+5/3/2026 23:20:25,22,Male,Hostel,2000,Sometimes,6,Frequently,0,1042.857142857143,No,Sometimes,3,0,2,2,1.9499999999999997,Social Splitter
+5/3/2026 23:36:38,35,Male,Dayscholar,3000,Sometimes,5,Rarely,500,6000.0,No,Sometimes,1,0,2,2,1.25,Silent Spender
+5/4/2026 1:00:52,22,Male,Hostel,2000,Sometimes,8,Sometimes,50,1000.0,Yes,Sometimes,2,1,2,2,1.7999999999999998,Silent Spender
+5/4/2026 7:24:14,22,Male,Dayscholar,3000,Never,1,Rarely,700,900.0,Yes,Sometimes,1,1,2,1,1.6500000000000001,Silent Spender
+5/4/2026 7:26:21,21,Male,Dayscholar,2000,Never,2,Frequently,500,500.0,Yes,Sometimes,3,1,2,1,2.3499999999999996,Cash Hoarder
+5/4/2026 9:54:13,22,Female,Hostel,5000,Always,7,Sometimes,200,2000.0,Yes,Sometimes,2,1,2,3,1.5999999999999999,Silent Spender
+5/4/2026 10:38:04,23,Male,Dayscholar,2000,Never,4,Frequently,400,500.0,No,Often,3,0,3,1,2.4,Cash Hoarder
+5/4/2026 10:39:01,25,Female,Hostel,5000,Sometimes,5,Sometimes,100,300.0,Yes,Sometimes,2,1,2,2,1.7999999999999998,Silent Spender
+5/4/2026 11:21:24,21,Female,Hostel,6000,Sometimes,6,Sometimes,350,200.0,No,Sometimes,2,0,2,2,1.6,Silent Spender
+5/4/2026 13:22:29,25,Prefer not to say,Dayscholar,5500,Never,1,Frequently,400,1680.0,No,Often,3,0,3,1,2.4,Cash Hoarder
+5/4/2026 15:51:06,19,Female,Hostel,1000,Sometimes,6,Frequently,500,300.0,No,Often,3,0,3,2,2.1999999999999997,Social Splitter
+5/4/2026 16:01:28,21,Female,Dayscholar,5000,Sometimes,5,Sometimes,100,500.0,No,Often,2,0,3,2,1.85,Social Splitter
+5/4/2026 16:55:35,21,Female,Dayscholar,2000,Always,6,Sometimes,150,500.0,Yes,Sometimes,2,1,2,3,1.5999999999999999,Silent Spender
+5/4/2026 17:22:42,21,Female,Dayscholar,6000,Always,8,Sometimes,300,1000.0,No,Never,2,0,1,3,1.15,Silent Spender
+5/4/2026 17:32:47,23,Female,Hostel,2000,Always,8,Sometimes,200,500.0,Yes,Sometimes,2,1,2,3,1.5999999999999999,Silent Spender
+5/4/2026 18:03:03,20,Female,Hostel,2000,Never,2,Rarely,300,600.0,Yes,Often,1,1,3,1,1.9000000000000001,Social Splitter
+5/4/2026 18:41:55,22,Male,Dayscholar,5000,Sometimes,8,Sometimes,700,3000.0,No,Sometimes,2,0,2,2,1.6,Silent Spender
+5/4/2026 19:59:04,21,Female,Dayscholar,2000,Sometimes,5,Sometimes,0,1000.0,Yes,Sometimes,2,1,2,2,1.7999999999999998,Silent Spender
+5/4/2026 20:10:06,20,Female,Hostel,3000,Always,3,Sometimes,500,1000.0,Yes,Sometimes,2,1,2,3,1.5999999999999999,Silent Spender
+5/5/2026 14:02:55,19,Female,Hostel,1000,Sometimes,5,Rarely,240,670.0,No,Often,1,0,3,2,1.5,Silent Spender
+5/5/2026 14:55:48,21,Female,Hostel,3000,Sometimes,5,Frequently,500,600.0,No,Often,3,0,3,2,2.1999999999999997,Social Splitter

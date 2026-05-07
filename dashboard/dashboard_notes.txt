@@ -1,0 +1,14 @@
+Planned Dashboard Features:
+
+1. Hidden Spending Score Distribution
+2. Spending Personality Breakdown
+3. Hostel vs Day Scholar Analysis
+4. Cash Usage Analysis
+5. Student Behavior Clusters
+6. Correlation Heatmap
+7. Spending Trend Visualizations
+
+Possible Tools:
+- Power BI
+- Tableau
+- Streamlit
